@@ -5,6 +5,3 @@ This repository contains the Weather App, which was built with React Native and 
 ![Weather-UDRGZNEV](https://user-images.githubusercontent.com/112500211/213843465-11157c58-94b0-4e90-b0f3-922a17536f06.jpg)
 
 Expo App Link : https://expo.dev/@nimesh_urkude/Weather?serviceType=classic&distribution=expo-go
-
-# Weather_App
-# Weather_App
